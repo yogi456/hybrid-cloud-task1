@@ -1,5 +1,5 @@
  
-welcome to lw cloud
+welcome to my website ! this website is created by terraform
 <br />
 
 <pre>
@@ -8,6 +8,7 @@ welcome to lw cloud
 print `ifconfig`;
 
 print `cal`;
+ echo "<body style='background-color:pink'>";
 
 ?>
 </pre>
